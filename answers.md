@@ -72,6 +72,10 @@ answer 11.)
 there was an error stating that I did not have the same files locally that the remote had. it tells me to 'git pull...' before using the push command again.
 
 answer 12.)
+Yes the changes I made online were reflected in my local copy.
+
+answer 13.) 
+.  ..  .git  .gitignore  README.md
 
 <<<<<<< HEAD
 
